@@ -3,7 +3,7 @@ from section_03 import *
 
 def print_hi(name):
     # print(f'Hi, {name}')
-    section_03()
+    hello_world()
 
 
 if __name__ == '__main__':
